@@ -6,9 +6,7 @@
 
 - Created - 2025-03-27
 
-- Technologies Used - TailwindCSS , API , React.Js
-
-- Dependencies - Recharts , React-Hot-Toast
+- Technologies Used - TailwindCSS , API , React.Js , Recharts , React-Hot-Toast
 
 - Role - Frontend
 
@@ -17,8 +15,6 @@
 
 ![Alt text](https://github.com/user-attachments/assets/88774e95-4fbb-4a9a-b1ad-7f4dfcc8b200)
 
-
 ![Alt text](https://github.com/user-attachments/assets/8b2d97f5-7f61-4416-aa74-17d62b6847c8)
-
 
 ![Alt text](https://github.com/user-attachments/assets/ad22514f-43d5-4381-96bc-fc860439f1ac)
